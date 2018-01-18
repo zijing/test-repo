@@ -7,3 +7,5 @@ Testing git push
 test gpg key
 
 is it verified?
+
+commit iwth sign?
