@@ -11,3 +11,5 @@ is it verified?
 commit iwth sign?
 o
 aldhafiod
+
+finally GPG signing is working.
