@@ -13,3 +13,5 @@ o
 aldhafiod
 
 finally GPG signing is working.
+
+is it still working?
